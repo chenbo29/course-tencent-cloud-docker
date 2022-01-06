@@ -1,4 +1,4 @@
-FROM mysql:8.0.27
+FROM mysql:5.7
 
 ARG TZ=Asia/Shanghai
 
